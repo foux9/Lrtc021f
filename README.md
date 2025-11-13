@@ -1,31 +1,38 @@
-# 📚 Markdown Files
-
-> **Folder:** `pownto/files/`
+# Markdown Files
 
 ---
+
 ## Files List
-- [ai.md](pownto/files/ai.md) — Open file — raw markdown  
-- [bug-identification.md](pownto/files/bug-identification.md) — Open file — raw markdown  
-- [course.md](pownto/files/course.md) — Open file — raw markdown  
-- [development.md](pownto/files/development.md) — Open file — raw markdown  
-- [edr.md](pownto/files/edr.md) — Open file — raw markdown  
-- [file-upload.md](pownto/files/file-upload.md) — Open file — raw markdown  
-- [fuzzing.md](pownto/files/fuzzing.md) — Open file — raw markdown  
-- [graphql.md](pownto/files/graphql.md) — Open file — raw markdown  
-- [idor.md](pownto/files/idor.md) — Open file — raw markdown  
-- [jwt.md](pownto/files/jwt.md) — Open file — raw markdown  
-- [mitigations.md](pownto/files/mitigations.md) — Open file — raw markdown  
-- [oauth.md](pownto/files/oauth.md) — Open file — raw markdown  
-- [open-redirect.md](pownto/files/open-redirect.md) — Open file — raw markdown  
-- [osint.md](pownto/files/osint.md) — Open file — raw markdown  
-- [osint-method.md](pownto/files/osint-method.md) — Open file — raw markdown  
-- [rce.md](pownto/files/rce.md) — Open file — raw markdown  
-- [req-smuggle.md](pownto/files/req-smuggle.md) — Open file — raw markdown  
-- [shellcode.md](pownto/files/shellcode.md) — Open file — raw markdown  
-- [sql-injection.md](pownto/files/sql-injection.md) — Open file — raw markdown  
-- [ssti.md](pownto/files/ssti.md) — Open file — raw markdown  
-- [ssrf.md](pownto/files/ssrf.md) — Open file — raw markdown  
-- [waf-bypass.md](pownto/files/waf-bypass.md) — Open file — raw markdown  
-- [xss.md](pownto/files/xss.md) — Open file — raw markdown  
-- [xxe.md](pownto/files/xxe.md) — Open file — raw markdown  
+
+- [ai.md](pownto/files/ai.md)
+- [bug-identification.md](pownto/files/bug-identification.md)
+- [course.md](pownto/files/course.md)
+- [development.md](pownto/files/development.md)
+- [edr.md](pownto/files/edr.md)
+- [fast-checking.md](pownto/files/fast-checking.md)
+- [file-upload.md](pownto/files/file-upload.md)
+- [fuzzing.md](pownto/files/fuzzing.md)
+- [graphql.md](pownto/files/graphql.md)
+- [idor.md](pownto/files/idor.md)
+- [initial-access.md](pownto/files/initial-access.md)
+- [insecure-deserialization.md](pownto/files/insecure-deserialization.md)
+- [jwt.md](pownto/files/jwt.md)
+- [mitigations.md](pownto/files/mitigations.md)
+- [oauth.md](pownto/files/oauth.md)
+- [open-redirect.md](pownto/files/open-redirect.md)
+- [osint-method.md](pownto/files/osint-method.md)
+- [osint.md](pownto/files/osint.md)
+- [parameter-pollution.md](pownto/files/parameter-pollution.md)
+- [race-condition.md](pownto/files/race-condition.md)
+- [rce.md](pownto/files/rce.md)
+- [req-smuggle.md](pownto/files/req-smuggle.md)
+- [shellcode.md](pownto/files/shellcode.md)
+- [sql-injection.md](pownto/files/sql-injection.md)
+- [ssrf.md](pownto/files/ssrf.md)
+- [ssti.md](pownto/files/ssti.md)
+- [waf-bypass.md](pownto/files/waf-bypass.md)
+- [xss.md](pownto/files/xss.md)
+- [xxe.md](pownto/files/xxe.md)
+
 ---
+
